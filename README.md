@@ -22,6 +22,11 @@
  7. npm i cypress-parallel
  ```
  
+ ### No version of Cypress is installed
+ 
+ Removing the cypress npm package and re-installing it worked for me.
+"npm remove cypress" then "npm i cypress"
+ 
  #### simple run:
  
  ```bash
