@@ -26,6 +26,7 @@
  
  ```bash
   npm run cy:run
+  npx cypress open
  ```
  #### run with generate allure results:
   ```bash
